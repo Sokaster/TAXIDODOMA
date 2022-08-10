@@ -1,0 +1,14 @@
+D:\Project Courses C#\TAXI\TAXI\obj\Debug\netcoreapp3.1\TAXI.csproj.AssemblyReference.cache
+D:\Project Courses C#\TAXI\TAXI\obj\Debug\netcoreapp3.1\TAXI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Courses C#\TAXI\TAXI\obj\Debug\netcoreapp3.1\TAXI.AssemblyInfoInputs.cache
+D:\Project Courses C#\TAXI\TAXI\obj\Debug\netcoreapp3.1\TAXI.AssemblyInfo.cs
+D:\Project Courses C#\TAXI\TAXI\obj\Debug\netcoreapp3.1\TAXI.csproj.CoreCompileInputs.cache
+D:\Project Courses C#\TAXI\TAXI\bin\Debug\netcoreapp3.1\TAXI.exe
+D:\Project Courses C#\TAXI\TAXI\bin\Debug\netcoreapp3.1\TAXI.deps.json
+D:\Project Courses C#\TAXI\TAXI\bin\Debug\netcoreapp3.1\TAXI.runtimeconfig.json
+D:\Project Courses C#\TAXI\TAXI\bin\Debug\netcoreapp3.1\TAXI.runtimeconfig.dev.json
+D:\Project Courses C#\TAXI\TAXI\bin\Debug\netcoreapp3.1\TAXI.dll
+D:\Project Courses C#\TAXI\TAXI\bin\Debug\netcoreapp3.1\TAXI.pdb
+D:\Project Courses C#\TAXI\TAXI\obj\Debug\netcoreapp3.1\TAXI.dll
+D:\Project Courses C#\TAXI\TAXI\obj\Debug\netcoreapp3.1\TAXI.pdb
+D:\Project Courses C#\TAXI\TAXI\obj\Debug\netcoreapp3.1\TAXI.genruntimeconfig.cache
